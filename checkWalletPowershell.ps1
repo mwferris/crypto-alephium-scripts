@@ -2,7 +2,7 @@
 
 # Put your details here:
 $walletName = "WALLET_NAME" 
-$unlockWallet = 1 # swap to 0 if you want to unlock wallet manually 
+$unlockWallet = 0 # swap to 1 if you want to auto unlock wallet 
 $walletPassword = "WALLET_PASSWORD" # only needed if unlocking wallet in script
 
 
